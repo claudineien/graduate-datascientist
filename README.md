@@ -83,7 +83,7 @@
 </div>
 <p>O gráfico a seguir mostra a relação inversa entre tempo de produção da informação e o valor da informação</p>
 <picture>
-    <img src=".\vlr-info_x_tempoproduinfo.png" alt="Grafico : Valor Informação x Tempo de produção da Informação">
+    <img src="img/vlr-info_x_tempoproduinfo.png" alt="Grafico : Valor Informação x Tempo de produção da Informação">
 </picture>
 <br>
 <h4>DIFERENÇAS NA ESTRUTURA BÁSICA DE SOLUÇÃO DE ANÁLISE DE DADOS</h4>
@@ -123,7 +123,7 @@
 </div>
 <h4>OBJETIVO DO PROJETO BIG DATA</h4>
 <p>O objetivo do projeto big data é responder perguntas. E para isto é necessário:</p>
-<img src="./triangulobigdata.png" alt="Grafico : Triangulo-Pessoas,Processod,Dados,Tecnologia">
+<img src="img/triangulobigdata.png" alt="Grafico : Triangulo-Pessoas,Processod,Dados,Tecnologia">
 
 <p> - </p>
 <p> - </p>
