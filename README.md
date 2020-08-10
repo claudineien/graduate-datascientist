@@ -122,10 +122,41 @@
   </table>
 </div>
 <h4>OBJETIVO DO PROJETO BIG DATA</h4>
-<p>O objetivo do projeto big data é responder perguntas. E para isto é necessário:</p>
+<p>Projetos big data são altamente complexos e envolvem grande número de variáveis, para alcançar seu objetivo que é : Responder Perguntas.</p>
+<p>Agrupando todos os elementos envolvidos para alcançar o objetivo, um projeto big data envolve : pessoas, processos, dados e tecnologia. A seguir o Triângulo dos projetos Big Data :</p>
 <img src="img/triangulobigdata.png" alt="Grafico : Triangulo-Pessoas,Processod,Dados,Tecnologia">
-
-<p> - </p>
+<div style="overflow-x:auto;">
+  <table>
+    <tr>
+      <th>Elementos</th>
+      <th>Objetivo do elemento</th>
+    </tr>
+    <tr>
+      <td>Pessoa</td>
+      <td>É o elemento mais importante do Big Data, por que os projetos Big Data são feitos por pessoas para pessoas envolvidas no processo. As pessoas que produzem : dados de origem, configuram sistemas de processamento, programam scripts, definem regras de negócios, fornecem suporte, interpretam legislação, geram relatórios, parametrizam KPIs, definem requisitos técnicos e funcionais das soluções, entre outros</td>
+    </tr>
+    <tr>
+      <td>Processo</td>
+      <td>Definem os requisitos funcionais do projeto. São definidos por pessoas, normas internas, necessiddes gerenciais, legislação, conformidade ou regras de mercado</td>
+    </tr>
+    <tr>
+      <td>Dado</td>
+      <td>É a Matéria-prima que será analisada, tratada e adequada a realidade do negócio, tornado-se qualificada aos objetivos do projeto, e ainda será processado por um ou mais algoritmos matemáticos, estatísticos e/ou relacionais em que o usuário final será capaz de extrair informações e conhecimento.</td>
+    </tr>
+    <tr>
+      <td>Tecnologia</td>
+      <td>São conectores, softwares de extração, softwares de transformação, softwares de qualidade de dados, algoritmos de aprendizado de máquina, softwares de visualização, discos rígidos, clusters, roteadores, switches, banco de dados, redes, internet, website, webapp, etc...</td>
+    </tr>
+  </table>
+</div>
+<p>
+  <ol>
+    <li>Pessoas : </li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ol>
+</p>
 <p> - </p>
 <p> - </p>
 <p> - </p>
@@ -141,5 +172,12 @@
 <a href="https://www.youtube.com/watch?v=B-JmU842t_Q">A HISTÓRIA DA INFORMAÇÃO Documentário 2012</a><br>
 <a href="https://www.youtube.com/watch?v=eOrpDa0BH1c">Consumo de informação | Ricardo Cappra, para PUCRS Online</a>
 <br>
+<p> - </p>
+<p> - </p>
+<p> - </p>
+<p> - </p>
+<p> - </p>
+<p> - </p>
+<p> - </p>
 <p> - </p>
 <p> - </p>
