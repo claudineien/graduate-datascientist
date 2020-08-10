@@ -11,7 +11,7 @@
 <p>Envolve grandes volumes de dados (petabytes, exabytes, até o infinito), velocidade, variedade, veracidade e valor.</p>
 <p></p>
 <h4>PROJETO BIG DATA</h4>
-<p>Um projeto Big Data envolve muitas fontes de dados, os que envolvem poucas deve haver uma desestruturada ou semi-estruturada ou fontes de dados NoSQL, ou volumes de dados além de um projeto tradicional.</p>
+<p>Um projeto Big Data envolve muitas fontes de dados, os que envolvem poucas fontes de dados deve haver uma desestruturada ou semi-estruturada ou fontes de dados NoSQL, ou volumes de dados além de um projeto tradicional.</p>
 <p>O PMBOK registra que nem todos os processos são obrigatórios. Nem aplicarmos aplica-los com a mesma intensidade. Quais processos usar e intensidade aplicar será responsabilidade do gerente do projeto e sua equipe. Os fatores que envolve são: complexidade, novos elementos relacionados, pessoas, tecnologias, dados de origem ou origem dos dados.</p>
 <h4>CRIAR PROTÓTIPOS</h4>
 <p>
@@ -83,7 +83,7 @@
 </div>
 <p>O gráfico a seguir mostra a relação inversa entre tempo de produção da informação e o valor da informação</p>
 <picture>
-    <img src="img/vlr-info_x_tempoproduinfo.png" alt="Grafico : Valor Informação x Tempo de produção da Informação">
+    <img src=".\vlr-info_x_tempoproduinfo.png" alt="Grafico : Valor Informação x Tempo de produção da Informação">
 </picture>
 <br>
 <h4>DIFERENÇAS NA ESTRUTURA BÁSICA DE SOLUÇÃO DE ANÁLISE DE DADOS</h4>
@@ -124,7 +124,7 @@
 <h4>OBJETIVO DO PROJETO BIG DATA</h4>
 <p>Projetos big data são altamente complexos e envolvem grande número de variáveis, para alcançar seu objetivo que é : Responder Perguntas.</p>
 <p>Agrupando todos os elementos envolvidos para alcançar o objetivo, um projeto big data envolve : pessoas, processos, dados e tecnologia. A seguir o Triângulo dos projetos Big Data :</p>
-<img src="img/triangulobigdata.png" alt="Grafico : Triangulo-Pessoas,Processod,Dados,Tecnologia">
+<img src="./triangulobigdata.png" alt="Grafico : Triangulo-Pessoas,Processod,Dados,Tecnologia">
 <div style="overflow-x:auto;">
   <table>
     <tr>
@@ -160,18 +160,39 @@
 <p>
   <ol>
     <li>Negócios : considere projeto com foco no negócio</li>
-    <li>Auditoria : encontrar fraudes, desperdícios e/ou erros</li>
-    <li>Conformidade : atender uma ou mais normas específicas, associada a alguma entidade reguladora ou fiscalizadora</li>
-    <li>Operação : </li>
-    <li>Pesquisa : </li>
-    <li>Auditoria : </li>
+    <li>Auditoria : encontrar fraudes, desperdícios, vírus, spams, e/ou erros</li>
+    <li>Conformidade : atender uma ou mais normas específicas, associada a alguma entidade reguladora ou fiscalizadora. Ex : eSocial, secção 404 da Sarbanes-Oxley</li>
+    <li>Operação : atender requisitos operacionais. Ex : controle de linha de produção, Controle Estatísticos de Processos, monitoramento de sitema de informação, etc...</li>
+    <li>Pesquisa : qualquer projeto de pesquisa em qualquer área. Exemplo: GIMPS-Great Internet Mersenne Prime Search</li>
   </ol>
 </p>
-<p> - </p>
-<p> - </p>
-<p> - </p>
-<p> - </p>
-<p> - </p>
+<h4>PROJETO COM FOCO NAS ANÁLISES</h4>
+<p>
+  <ol>
+    <li>Descritivos ou Exploratórios : analisar dados para conhecê-los ou apresentar resultados consolidados. Ex : vendas por tipo de produto ou funcionários por departamento. Forte na produção de gráficos de dispersão, diagrama de caixa, setores, barras, etc</li>
+    <li>Inferência: apresentar prováveis fatos a partir de uma parte menor da população de dados, com uma margem de erro</li>
+    <li>Análiticos : buscar relações entre diversos dados. Ex : vendas de acordo com o sexo do cliente, absenteismo de acordo com o cargo do funcionário</li>
+    <li>Preditivos : prever fatos futuros, com base em fatos ocorridos. Ex : prever bom pagador, aluno com melhor desempenho, tempo que um funcionário ficará na empresa, etc</li>
+    <li>Prescritivos : trazer informações que permita mudar evento futuro. Ex : ações para funcionário permanecer na empresa</li>
+  </ol>
+</p>
+<h4>PROJETO COM FOCO NA FONTE DE DADOS</h4>
+<p>
+  <ol>
+    <li>modelo : relacional, rede, hireráquico, orientado a objetos, chave-valor, dimensional, etc</li>
+    <li>fornecedor : Aws Amazon, Oracle, Dell, Sbt Televisão, IBM</li>
+    <li>origem : sistemas de produção, midias sociais, pesquisas, benchmarking, sensores, etc</li>
+    <p>Estes dados podem ser :</p>
+    <p>
+      <ol>
+        <li>estruturados : estrutura rígida e fixa de dados organizados em linha e em colunas. Ex : planilhas , banco de dados relacionais</li>
+        <li>semi-estruturados : não é homogênea e não é fixa. Ex : XML e json</li>
+        <li>não estruturados : sem qualquer tipo de estrutura definida : documentos, e-mails, sites, etc</li>
+      </ol>
+    </p>
+  </ol>
+</p>
+
 <p> - </p>
 <p> - </p>
 <p> - </p>
