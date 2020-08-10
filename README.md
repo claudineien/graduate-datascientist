@@ -83,7 +83,7 @@
 </div>
 <p>O gráfico a seguir mostra a relação inversa entre tempo de produção da informação e o valor da informação</p>
 <picture>
-    <img src=".\vlr-info_x_tempoproduinfo.png" alt="Grafico : Valor Informação x Tempo de produção da Informação">
+    <img src="img/vlr-info_x_tempoproduinfo.png" alt="Grafico : Valor Informação x Tempo de produção da Informação">
 </picture>
 <br>
 <h4>DIFERENÇAS NA ESTRUTURA BÁSICA DE SOLUÇÃO DE ANÁLISE DE DADOS</h4>
@@ -124,7 +124,7 @@
 <h4>OBJETIVO DO PROJETO BIG DATA</h4>
 <p>Projetos big data são altamente complexos e envolvem grande número de variáveis, para alcançar seu objetivo que é : Responder Perguntas.</p>
 <p>Agrupando todos os elementos envolvidos para alcançar o objetivo, um projeto big data envolve : pessoas, processos, dados e tecnologia. A seguir o Triângulo dos projetos Big Data :</p>
-<img src="./triangulobigdata.png" alt="Grafico : Triangulo-Pessoas,Processod,Dados,Tecnologia">
+<img src="img/triangulobigdata.png" alt="Grafico : Triangulo-Pessoas,Processod,Dados,Tecnologia">
 <div style="overflow-x:auto;">
   <table>
     <tr>
@@ -181,7 +181,7 @@
   <ol>
     <li>modelo : relacional, rede, hireráquico, orientado a objetos, chave-valor, dimensional, etc</li>
     <li>fornecedor : Aws Amazon, Oracle, Dell, Sbt Televisão, IBM</li>
-    <li>origem : sistemas de produção, midias sociais, pesquisas, benchmarking, sensores, etc</li>
+    <li>origem : sistemas de produção, midias sociais, pesquisas, benchmarking, sensores, etc</li><br>
     <p>Estes dados podem ser :</p>
     <p>
       <ol>
