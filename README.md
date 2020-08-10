@@ -21,7 +21,7 @@
         <li>Grande complexidade : quase sem experiência alguma, pode requerer protótipo funcional para verificar viabilidade e minimizar riscos</li>
     </ol>
 </p>
-<h4>DIFERENÇA ENTRE PROJETO TRADICIONAL DE ANALISE DE DADOS E PROJETO BIG DATA</h4>
+<h4>DIFERENÇA ENTRE PROJETO TRADICIONAL DE ANÁLISE DE DADOS E PROJETO BIG DATA</h4>
 <div style="overflow-x:auto;">
   <table>
     <tr>
@@ -149,15 +149,24 @@
     </tr>
   </table>
 </div>
+<h4>PROJETO COM FOCO NO NEGÓCIO</h4>
 <p>
   <ol>
-    <li>Pessoas : </li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Trazer vantagem competitiva ao resolver um problema de negócio para vender mais, gastar menos, ser mais eficiente, ser mais eficaz, entre outros benefícios</li>
+    <li>Desenvolver produto ou serviço que oferece solução à valorizar os dados como : mecanismo de buscas, um serviço de previsão de preços de passagens áreas, um BI self-service, etc</li>
   </ol>
 </p>
-<p> - </p>
+<h4>PROJETO COM FOCO NOS OBJETIVOS</h4>
+<p>
+  <ol>
+    <li>Negócios : considere projeto com foco no negócio</li>
+    <li>Auditoria : encontrar fraudes, desperdícios e/ou erros</li>
+    <li>Conformidade : atender uma ou mais normas específicas, associada a alguma entidade reguladora ou fiscalizadora</li>
+    <li>Operação : </li>
+    <li>Pesquisa : </li>
+    <li>Auditoria : </li>
+  </ol>
+</p>
 <p> - </p>
 <p> - </p>
 <p> - </p>
