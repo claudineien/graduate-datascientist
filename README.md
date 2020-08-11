@@ -192,8 +192,49 @@
     </p>
   </ol>
 </p>
-
-<p> - </p>
+<h4>VALOR DE NEGÓCIO</h4>
+<p>O gerente de projetos aceita o Business Case amplamente discutido, analisado e aprovado, e trabalha para garantir o seu sucesso aplicando as seguintes técnicas :</p>
+<p>
+  <ol>
+    <li>seguir os critérios de sucesso</li>
+    <li>seguir os fatores de sucesso</li>
+    <li>controle sobre o o projeto</li>
+  </ol>
+</p>
+<h4>CRITÉRIOS DE SUCESSO DE PROJETOS BIG DATA</h4>
+<p>Usados para medir se o projeto foi bem-sucedido. Podem ser os mais diversos, vejamos a seguir alguns dos mais comuns :</p>
+<p>
+  <ol>
+    <li>Usuários satisfeitos</li>
+    <li>Patrocinadores satisfeitos</li>
+    <li>Aumento de vendas</li>
+    <li>Redução de fraudes</li>
+    <li>Redução do custo operacional</li>
+    <li>Disponibilidade</li>
+    <li>TCO</li>
+  </ol>
+</p>
+<h4>FATORES DE SUCESSO</h4>
+<p>A seguir os fatores que o gerente de projeto e sua equipe devem observar para aumentar as chances do projeto ser bem-sucedido :</p>
+<p>
+  <ol>
+    <li>Suporte do patrocinador : é fundamental que acredite no projeto, esteja interessado e o priorize</li>
+    <li>Envolvimento dos interessados : os interessados devem ser envolvidos e saber que teem valor no projeto</li>
+    <li>Metas do projeto :
+      <ol>
+        <li>Entrega com mínima variação de prazo</li>
+        <li>Com escopo acordado</li>
+        <li>Com custos previsto</li>
+        <li>Com valor de negócio</li>
+      </ol>
+    </li>
+    <li>Orientado a negócio : avaliar o que quer produzir, qual o seu objetivo.
+    </li>
+    <li>Sub-Orientado a tecnologia : avaliar as tecnologias existentes.
+    </li>
+    <br>
+  </ol>
+</p>
 <p> - </p>
 <p> - </p>
 <p> - </p>
