@@ -235,21 +235,61 @@
     <br>
   </ol>
 </p>
-<h4>VOLUME E CRESCIMENTO</h4>
-<p>Analisar com a equipe do projeto e o pessoal da infraestrutura a respostas as seguintes perguntas :</p>
+<h4>VOLUME E CRESCIMENTO DOS DADOS</h4>
+<p>Analisar com a equipe do projeto respostas às seguintes perguntas :</p>
 <p>
-  <ol>
+  <ul>
     <li>Qual será o volume de dados ?</li>
     <li>Quantas serão as transações por minuto ?</li>
     <li>Qual volume de dados diário e mensal em terabytes, petabytes ?</li>
     <li>Quantos datanodes e namenodes são necessários ?</li>
-    <li>Qual estimativa de volume para os próximos 3 três anos ?</li>
-  </ol>
+    <li>Qual estimativa de volume nos próximos 3 três anos ?</li>
+    <li>Como deve ser e/ou será a infraestrutura necessária quanto ao armazenamento, rede e o processamento ?</li>
+  </ul>
+</p>
+<h4>VELOCIDADE DOS DADOS</h4>
+<p>Analisar os seguintes itens :</p>
+<p>
+  <ul>
+    <li>Qual a origem da velocidade ?</li>
+    <li>Qual a melhor latência possível ?</li>
+    <li>Serão dados em fluxo (streaming) analisados em memória ?</li>
+    <li>Serão informações estáticas ?</li>
+    <li>Por dia, semana, meses os dados seão : [ ]em tempo real [ ]próximo ao tempo real [ ]Com baixa latência ?</li>
+    <li>Os dados em tempo serão : [ ]milessegundos [ ]segundos [ ]minutos [ ]horas ?</li>
+    <li>Qual será a infraestrutura de rede Ethernet em gigabit ?</li>
+  </ul>
+</p>
+<h4>VELOCIDADE DOS DADOS</h4>
+<p>Analisar os seguintes itens :</p>
+<p>
+  <ul>
+    <li>Qual a origem da velocidade ?</li>
+    <li>Qual a melhor latência possível ?</li>
+    <li>Serão dados em fluxo (streaming) analisados em memória ?</li>
+    <li>Serão informações estáticas ?</li>
+    <li>Por dia, semana, meses os dados seão : [ ]em tempo real [ ]próximo ao tempo real [ ]Com baixa latência ?</li>
+    <li>Os dados em tempo serão : [ ]milessegundos [ ]segundos [ ]minutos [ ]horas ?</li>
+    <li>Qual será a infraestrutura de rede Ethernet em gigabit ?</li>
+  </ul>
 </p>
 <p> - </p>
 <p> - </p>
 <p> - </p>
 <p> - </p>
+<h4>Ferramentas</p>
+<p>
+  <ul>
+    <li>Spark</li>
+    <li>Hadoop</li>
+    <li>Serão dados em fluxo (streaming) analisados em memória ?</li>
+    <li>Serão informações estáticas ?</li>
+    <li>Por dia, semana, meses os dados seão : [ ]em tempo real [ ]próximo ao tempo real [ ]Com baixa latência ?</li>
+    <li>Os dados em tempo serão : [ ]milessegundos [ ]segundos [ ]minutos [ ]horas ?</li>
+    <li>Qual a origem da velocidade ?</li>
+    <li>Qual a origem da velocidade ?</li>
+  </ul>
+</p>
 
 <a href="https://www.youtube.com/watch?v=B-JmU842t_Q">A HISTÓRIA DA INFORMAÇÃO Documentário 2012</a><br>
 <a href="https://www.youtube.com/watch?v=eOrpDa0BH1c">Consumo de informação | Ricardo Cappra, para PUCRS Online</a>
