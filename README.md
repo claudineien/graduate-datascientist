@@ -7,13 +7,13 @@
 <p>O PMBOK (2013) define que um projeto é um esforço temporário para produzir um produto ou serviço exclusivo. Um projeto Big Data possui estas mesmas características, e pode gerar resultados por tempo indeterminado.</p>
 <p>Um projeto Big Data esta entre os mais complexos e com maiores riscos de todas as indústrias, produzindo algo abstrato, não tangível, envolve muitas estruturas, sistemas, formatos, pessoas e infraestrutura</p>
 <p>Um projeto que envolve uma única fonte de dados relacionais para produzir dimensões em um data mart, não pode ser considerado Big Data. </p>
-<h4>ENTENDER PROJETO BIG DATA</h4>
+<h3>ENTENDER PROJETO BIG DATA</h3>
 <p>Envolve grandes volumes de dados (petabytes, exabytes, até o infinito), velocidade, variedade, veracidade e valor.</p>
 <p></p>
-<h4>PROJETO BIG DATA</h4>
+<h3>PROJETO BIG DATA</h3>
 <p>Um projeto Big Data envolve muitas fontes de dados, os que envolvem poucas fontes de dados deve haver uma desestruturada ou semi-estruturada ou fontes de dados NoSQL, ou volumes de dados além de um projeto tradicional.</p>
 <p>O PMBOK registra que nem todos os processos são obrigatórios. Nem aplicarmos aplica-los com a mesma intensidade. Quais processos usar e intensidade aplicar será responsabilidade do gerente do projeto e sua equipe. Os fatores que envolve são: complexidade, novos elementos relacionados, pessoas, tecnologias, dados de origem ou origem dos dados.</p>
-<h4>CRIAR PROTÓTIPOS</h4>
+<h3>CRIAR PROTÓTIPOS</h3>
 <p>
     <ol>
         <li>Baixa complexidade : há experiência prévia e tecnologia madura e testada, talvez seja dispensável um protótipo</li>
@@ -21,7 +21,7 @@
         <li>Grande complexidade : quase sem experiência alguma, pode requerer protótipo funcional para verificar viabilidade e minimizar riscos</li>
     </ol>
 </p>
-<h4>DIFERENÇA ENTRE PROJETO TRADICIONAL DE ANÁLISE DE DADOS E PROJETO BIG DATA</h4>
+<h3>DIFERENÇA ENTRE PROJETO TRADICIONAL DE ANÁLISE DE DADOS E PROJETO BIG DATA</h3>
 <div style="overflow-x:auto;">
   <table>
     <tr>
@@ -86,7 +86,7 @@
     <img src="img/vlr-info_x_tempoproduinfo.png" alt="Grafico : Valor Informação x Tempo de produção da Informação">
 </picture>
 <br>
-<h4>DIFERENÇAS NA ESTRUTURA BÁSICA DE SOLUÇÃO DE ANÁLISE DE DADOS</h4>
+<h3>DIFERENÇAS NA ESTRUTURA BÁSICA DE SOLUÇÃO DE ANÁLISE DE DADOS</h3>
 <div style="overflow-x:auto;">
   <table>
     <tr>
@@ -121,7 +121,7 @@
     </tr>
   </table>
 </div>
-<h4>OBJETIVO DO PROJETO BIG DATA</h4>
+<h3>OBJETIVO DO PROJETO BIG DATA</h3>
 <p>Projetos big data são altamente complexos e envolvem grande número de variáveis, para alcançar seu objetivo que é : Responder Perguntas.</p>
 <p>Agrupando todos os elementos envolvidos para alcançar o objetivo, um projeto big data envolve : pessoas, processos, dados e tecnologia. A seguir o Triângulo dos projetos Big Data :</p>
 <img src="img/triangulobigdata.png" alt="Grafico : Triangulo-Pessoas,Processod,Dados,Tecnologia">
@@ -149,14 +149,14 @@
     </tr>
   </table>
 </div>
-<h4>PROJETO COM FOCO NO NEGÓCIO</h4>
+<h3>PROJETO COM FOCO NO NEGÓCIO</h3>
 <p>
   <ol>
     <li>Trazer vantagem competitiva ao resolver um problema de negócio para vender mais, gastar menos, ser mais eficiente, ser mais eficaz, entre outros benefícios</li>
     <li>Desenvolver produto ou serviço que oferece solução à valorizar os dados como : mecanismo de buscas, um serviço de previsão de preços de passagens áreas, um BI self-service, etc</li>
   </ol>
 </p>
-<h4>PROJETO COM FOCO NOS OBJETIVOS</h4>
+<h3>PROJETO COM FOCO NOS OBJETIVOS</h3>
 <p>
   <ol>
     <li>Negócios : considere projeto com foco no negócio</li>
@@ -166,7 +166,7 @@
     <li>Pesquisa : qualquer projeto de pesquisa em qualquer área. Exemplo: GIMPS-Great Internet Mersenne Prime Search</li>
   </ol>
 </p>
-<h4>PROJETO COM FOCO NAS ANÁLISES</h4>
+<h3>PROJETO COM FOCO NAS ANÁLISES</h3>
 <p>
   <ol>
     <li>Descritivos ou Exploratórios : analisar dados para conhecê-los ou apresentar resultados consolidados. Ex : vendas por tipo de produto ou funcionários por departamento. Forte na produção de gráficos de dispersão, diagrama de caixa, setores, barras, etc</li>
@@ -176,7 +176,7 @@
     <li>Prescritivos : trazer informações que permita mudar evento futuro. Ex : ações para funcionário permanecer na empresa</li>
   </ol>
 </p>
-<h4>PROJETO COM FOCO NA FONTE DE DADOS</h4>
+<h3>PROJETO COM FOCO NA FONTE DE DADOS</h3>
 <p>
   <ol>
     <li>modelo : relacional, rede, hireráquico, orientado a objetos, chave-valor, dimensional, etc</li>
@@ -192,15 +192,8 @@
     </p>
   </ol>
 </p>
-<h4>VALOR DE NEGÓCIO</h4>
-<p>O gerente de projetos aceita o Business Case amplamente discutido, analisado e aprovado, e trabalha para garantir o seu sucesso aplicando as seguintes técnicas :</p>
-<p>
-  <ol>
-    <li>seguir os critérios de sucesso</li>
-    <li>seguir os fatores de sucesso</li>
-    <li>controle sobre o o projeto</li>
-  </ol>
-</p>
+<h3>VALOR DE NEGÓCIO</h3>
+<p>O Gerente de Projetos aceita o Business Case amplamente discutido, analisado e aprovado, e trabalha para garantir o seu sucesso aplicando as seguintes técnicas :</p>
 <h4>CRITÉRIOS DE SUCESSO DE PROJETOS BIG DATA</h4>
 <p>Usados para medir se o projeto foi bem-sucedido. Podem ser os mais diversos, vejamos a seguir alguns dos mais comuns :</p>
 <p>
@@ -273,11 +266,41 @@
     <li>Qual será a infraestrutura de rede Ethernet em gigabit ?</li>
   </ul>
 </p>
+<h4>VARIEDADE DOS DADOS</h4>
+<p>A variedade dos dados pode ser detectada através das seguintes perguntas :</p>
+<p>
+  <ul>
+    <li>Serão dados : [ ]estruturados  [ ]não estruturados?</li>
+    <li>Quais serão os fornecedores ?</li>
+    <li>Que tipo de dados não estruturados serão ? (imagens, vídeos, emails ...)</li>
+    <li>Que tipo de dados estruturados serão ?</li>
+    <li>Estão em plataforma baixa ou alta ?</li>
+    <li>Existem conectores conhecidos e funcionais para todas as fontes ?</li>
+    <li>Quais são os dados criptografados ?</li>
+    <li>Quais são os dados proprietários ?</li>
+    <li>Há dados gerados por máquinas ?</li>
+    <li>Serão necessários dados de dispositivos ?</li>
+    <li>Serão necessários dados de redes sociais ?</li>
+    <li>Quais tipos de dados serão necessário comprar de um data broker ?</li>
+    <li>As fontes de dados estão documentadas ?</li>
+    <li>A integridade referencial dos dados é : [ ]na aplicação [ ]no banco de dados ?</li>
+    <li>A estrutura dos dados esta em uma estrutura legível ?</li>
+    <li>As entidades do banco de dados são nomeadas com prefixo mais um número ?</li>
+    <li>Será necessário utilizar ferramenta de profile no banco de dados ?</li> 
+    <li>Será necessário aplicar engenharia reversa sobre a fonte de dados ?</li>
+    <li>A fonte de dados é antiga ?</li>
+    <li>Há um conector conhecido com custo viável para trabalhar com a base de dados antiga ?</li>
+    <li> ?</li>
+    <li> ?</li>
+    <li> ?</li>
+    <li> ?</li>
+  </ul>
+</p>
 <p> - </p>
 <p> - </p>
 <p> - </p>
 <p> - </p>
-<h4>Ferramentas</p>
+<h3>Ferramentas</p>
 <p>
   <ul>
     <li>Spark</li>
