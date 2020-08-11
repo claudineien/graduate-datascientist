@@ -83,7 +83,7 @@
 </div>
 <p>O gráfico a seguir mostra a relação inversa entre tempo de produção da informação e o valor da informação</p>
 <picture>
-    <img src="img/vlr-info_x_tempoproduinfo.png" alt="Grafico : Valor Informação x Tempo de produção da Informação">
+    <img src=".\vlr-info_x_tempoproduinfo.png" alt="Grafico : Valor Informação x Tempo de produção da Informação">
 </picture>
 <br>
 <h3>DIFERENÇAS NA ESTRUTURA BÁSICA DE SOLUÇÃO DE ANÁLISE DE DADOS</h3>
@@ -124,7 +124,7 @@
 <h3>OBJETIVO DO PROJETO BIG DATA</h3>
 <p>Projetos big data são altamente complexos e envolvem grande número de variáveis, para alcançar seu objetivo que é : Responder Perguntas.</p>
 <p>Agrupando todos os elementos envolvidos para alcançar o objetivo, um projeto big data envolve : pessoas, processos, dados e tecnologia. A seguir o Triângulo dos projetos Big Data :</p>
-<img src="img/triangulobigdata.png" alt="Grafico : Triangulo-Pessoas,Processod,Dados,Tecnologia">
+<img src="./triangulobigdata.png" alt="Grafico : Triangulo-Pessoas,Processod,Dados,Tecnologia">
 <div style="overflow-x:auto;">
   <table>
     <tr>
@@ -295,14 +295,42 @@
 <h4>DISPONIBILIDADE</h4>
 <p>Ter requisito de disponibilidade com regras bem definidas de redundância evitará prejuízos e/ou até o fracasso do projeto</p>
 <p>Prever falhas em hardwares, falhas em softwares, falta de luz, falhas de segurança, problemas físicos e/ou lógicos em redes, entre diversos outros problemas</p>
-<p>O sistema pode ficar desconectado em determinados momentos ?</p>
 <p>A disponibilidade 99,999% (conhecida cinco noves), representa indisponibilidade de 5,26 minutos por ano.</p>
 <p>Alta disponibilidade significa sistemas mais tolerantes a falhas.</p>
 <p>É interessante a contratação de RTO-Recovery Time Objective em projetos críticos, para definir o tempo que o contratado tem para recuperar o sistema e colocar de volta em funcionamento</p>
+<p>A seguir algumas tecnologias que possuem redundância nativa :</p>
+<p>
+  <ul>
+    <li>Hadoop</li>
+    <li>Google Cloud</li>
+    <li>AWS Cloud</li>
+    <li>Microsoft Azure</li>
+  </ul>
+</p>
+<h4>VIRTUALIZAÇÃO</h4>
+<p>A virtualização tem reduzido custos, facilitado a gestão de e/ou nos projetos e possuem alto nível de segurança, portanto analisar quais partes do projeto Big Data virtualizar e como virtualizar.</p>
+<h4>BACKUP</h4>
+<p>Esta diretamente relacionado aos requisitos de disponibilidade e segurança do projeto. A seguir os tipos de backups que podem ser aplicados :</p>
+<p>
+  <ul>
+    <li>Backup Completo</li>
+    <li>Backup Incremental</li>
+    <li>Backup Diferencial</li>
+    <li>Backup Espelhado</li>
+    <li>Backup Local</li>
+    <li>Backup Externo</li>
+    <li>Backup Remoto</li>
+    <li>Backup em Nuvem</li>
+  </ul>
+</p>
+<h4></h4>
 <p></p>
 <p>
   <ul>
-    <li>Serão dados : [ ]estruturados  [ ]não estruturados?</li>
+    <li>Hadoop</li>
+    <li>Google Cloud</li>
+    <li>AWS Cloud</li>
+    <li>Microsoft Azure</li>
   </ul>
 </p>
 <p> - </p>
