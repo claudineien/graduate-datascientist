@@ -290,13 +290,21 @@
     <li>Será necessário aplicar engenharia reversa sobre a fonte de dados ?</li>
     <li>A fonte de dados é antiga ?</li>
     <li>Há um conector conhecido com custo viável para trabalhar com a base de dados antiga ?</li>
-    <li> ?</li>
-    <li> ?</li>
-    <li> ?</li>
-    <li> ?</li>
   </ul>
 </p>
-<p> - </p>
+<h4>DISPONIBILIDADE</h4>
+<p>Ter requisito de disponibilidade com regras bem definidas de redundância evitará prejuízos e/ou até o fracasso do projeto</p>
+<p>Prever falhas em hardwares, falhas em softwares, falta de luz, falhas de segurança, problemas físicos e/ou lógicos em redes, entre diversos outros problemas</p>
+<p>O sistema pode ficar desconectado em determinados momentos ?</p>
+<p>A disponibilidade 99,999% (conhecida cinco noves), representa indisponibilidade de 5,26 minutos por ano.</p>
+<p>Alta disponibilidade significa sistemas mais tolerantes a falhas.</p>
+<p>É interessante a contratação de RTO-Recovery Time Objective em projetos críticos, para definir o tempo que o contratado tem para recuperar o sistema e colocar de volta em funcionamento</p>
+<p></p>
+<p>
+  <ul>
+    <li>Serão dados : [ ]estruturados  [ ]não estruturados?</li>
+  </ul>
+</p>
 <p> - </p>
 <p> - </p>
 <p> - </p>
