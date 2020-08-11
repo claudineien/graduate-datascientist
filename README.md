@@ -7,11 +7,10 @@
 <p>O PMBOK (2013) define que um projeto é um esforço temporário para produzir um produto ou serviço exclusivo. Um projeto Big Data possui estas mesmas características, e pode gerar resultados por tempo indeterminado.</p>
 <p>Um projeto Big Data esta entre os mais complexos e com maiores riscos de todas as indústrias, produzindo algo abstrato, não tangível, envolve muitas estruturas, sistemas, formatos, pessoas e infraestrutura</p>
 <p>Um projeto que envolve uma única fonte de dados relacionais para produzir dimensões em um data mart, não pode ser considerado Big Data. </p>
-<h3>ENTENDER PROJETO BIG DATA</h3>
-<p>Envolve grandes volumes de dados (petabytes, exabytes, até o infinito), velocidade, variedade, veracidade e valor.</p>
-<p></p>
+<h2>ENTENDER O PROJETO BIG DATA</h2>
+<p>Envolve grandes volumes de dados (petabytes, exabytes, etc...), velocidade, variedade, veracidade e valor.</p>
 <h3>PROJETO BIG DATA</h3>
-<p>Um projeto Big Data envolve muitas fontes de dados, os que envolvem poucas fontes de dados deve haver uma desestruturada ou semi-estruturada ou fontes de dados NoSQL, ou volumes de dados além de um projeto tradicional.</p>
+<p>Um projeto Big Data envolve fontes de diversos tipos e origens de dados, os que envolvem poucas fontes de dados deve haver uma desestruturada ou semi-estruturada ou fontes de dados NoSQL, ou volumes de dados além de um projeto tradicional.</p>
 <p>O PMBOK registra que nem todos os processos são obrigatórios. Nem aplicarmos aplica-los com a mesma intensidade. Quais processos usar e intensidade aplicar será responsabilidade do gerente do projeto e sua equipe. Os fatores que envolve são: complexidade, novos elementos relacionados, pessoas, tecnologias, dados de origem ou origem dos dados.</p>
 <h3>CRIAR PROTÓTIPOS</h3>
 <p>
@@ -83,7 +82,7 @@
 </div>
 <p>O gráfico a seguir mostra a relação inversa entre tempo de produção da informação e o valor da informação</p>
 <picture>
-    <img src=".\vlr-info_x_tempoproduinfo.png" alt="Grafico : Valor Informação x Tempo de produção da Informação">
+    <img src="img/vlr-info_x_tempoproduinfo.png" alt="Grafico : Valor Informação x Tempo de produção da Informação">
 </picture>
 <br>
 <h3>DIFERENÇAS NA ESTRUTURA BÁSICA DE SOLUÇÃO DE ANÁLISE DE DADOS</h3>
@@ -124,7 +123,7 @@
 <h3>OBJETIVO DO PROJETO BIG DATA</h3>
 <p>Projetos big data são altamente complexos e envolvem grande número de variáveis, para alcançar seu objetivo que é : Responder Perguntas.</p>
 <p>Agrupando todos os elementos envolvidos para alcançar o objetivo, um projeto big data envolve : pessoas, processos, dados e tecnologia. A seguir o Triângulo dos projetos Big Data :</p>
-<img src="./triangulobigdata.png" alt="Grafico : Triangulo-Pessoas,Processod,Dados,Tecnologia">
+<img src="img/triangulobigdata.png" alt="Grafico : Triangulo-Pessoas,Processod,Dados,Tecnologia">
 <div style="overflow-x:auto;">
   <table>
     <tr>
@@ -323,8 +322,8 @@
     <li>Backup em Nuvem</li>
   </ul>
 </p>
-<h4></h4>
-<p></p>
+<h4>SEGURANÇA E PRIVACIDADE</h4>
+<p>Considerar no inicio do projeto para evitar </p>
 <p>
   <ul>
     <li>Hadoop</li>
