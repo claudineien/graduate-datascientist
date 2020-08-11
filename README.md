@@ -187,7 +187,7 @@
       <ol>
         <li>estruturados : estrutura rígida e fixa de dados organizados em linha e em colunas. Ex : planilhas , banco de dados relacionais</li>
         <li>semi-estruturados : não é homogênea e não é fixa. Ex : XML e json</li>
-        <li>não estruturados : sem qualquer tipo de estrutura definida : documentos, e-mails, sites, etc</li>
+        <li>não estruturados : sem qualquer tipo de estrutura definida. Ex : documentos, e-mails, sites, etc</li>
       </ol>
     </p>
   </ol>
@@ -233,6 +233,17 @@
     <li>Sub-Orientado a tecnologia : avaliar as tecnologias existentes.
     </li>
     <br>
+  </ol>
+</p>
+<h4>VOLUME E CRESCIMENTO</h4>
+<p>Analisar com a equipe do projeto e o pessoal da infraestrutura a respostas as seguintes perguntas :</p>
+<p>
+  <ol>
+    <li>Qual será o volume de dados ?</li>
+    <li>Quantas serão as transações por minuto ?</li>
+    <li>Qual volume de dados diário e mensal em terabytes, petabytes ?</li>
+    <li>Quantos datanodes e namenodes são necessários ?</li>
+    <li>Qual estimativa de volume para os próximos 3 três anos ?</li>
   </ol>
 </p>
 <p> - </p>
