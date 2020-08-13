@@ -323,16 +323,22 @@
   </ul>
 </p>
 <h4>SEGURANÇA E PRIVACIDADE</h4>
-<p>Considerar no inicio do projeto para evitar </p>
+<p>Considerar os requisitos de segurança e privacidade no inicio do projeto. A seguir alguns itens a observar :</p>
 <p>
   <ul>
-    <li>Hadoop</li>
-    <li>Google Cloud</li>
-    <li>AWS Cloud</li>
-    <li>Microsoft Azure</li>
+    <li>ajustes na política de privacidade na rede</li>
+    <li>ajustes na política de privacidade na internet</li>
+    <li>ajustes na política de privacidade nos computadores</li>
+    <li>melhorar a política de segurança de senha</li>
+    <li>adequar a política de criptografia de dados</li>
+    <li>considerar que ferramentas de front end suportem autenticação integrada com LDAP-Lightweight Directory Access Protocol</li>
+    <li>considerar utilizar AD-Active Directory</li>
   </ul>
 </p>
-<p> - </p>
+<h4>AUDITORIA</h4>
+<p>Certos projetos de Big Data teem requisitos de auditoria de uso que normalmente vem associados a questões de segurança e privacidade bastante restritos.</p>
+<p>Normalmente o acesso a equipe e ETL-Extract Transform Load tem acesso restrito a certas tabelas e colunas em uma fonte de origem.</p>
+<p>A auditoria certificará que os dados que não deveriam ser acessados não foram extraidos, no staging registra quais dados foram atualizados e na visualização o sistema registra quais fatos e/ou painéis foram acessados e por quem, quando e onde.</p>
 <p> - </p>
 <p> - </p>
 <h3>Ferramentas</p>
