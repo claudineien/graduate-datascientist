@@ -1,5 +1,5 @@
 <h4>Objetivo : Desenvolver um recomendador de vídeos do youtube
-    <p>Nivel Conhecimento : A partir de  Intermediário</p>
+    <p>Nivel Conhecimento : Intermediário à avançado</p>
     <p><a href="blank_">[En]</a>  <a href="blank_">[Pt-Br]</a></p>
 </h4>
 <h2>CICLO DE VIDA DE UMA SOLUÇÃO EM CIÊNCIA DE DADOS</h2>
@@ -137,7 +137,8 @@ Nesta fase o modelo de dados esta sendo contruÍdo pelo conjunto de dados de tre
 <hr>
 <p>Bibliografia
     <ul>
-        <li>Curso Solução Completa de Data Science - Instrutor Mario Filho - Kagle Gran Master</li>
+        <li><a href="https://curso.mariofilho.com/">   
+        Curso Solução Completa de Data Science - Instrutor Mario Filho-Kagle Gran Master</a></li>
         <li><a href="https://www.edureka.co/blog/data-science-projects/#A%20Basic%20Approach%20To%20Solving%20A%20Problem%20Using%20Data%20Science">Edureka</a></li>
     </ul>
 </p>
