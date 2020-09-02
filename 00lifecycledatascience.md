@@ -1,6 +1,6 @@
+<h4><a href="blank_">[En]</a>  <a href="blank_">[Pt-Br]</a></h4>
 <h4>Objetivo : Desenvolver um recomendador de vídeos do youtube
     <p>Nivel Conhecimento : Intermediário à avançado</p>
-    <p><a href="blank_">[En]</a>  <a href="blank_">[Pt-Br]</a></p>
 </h4>
 <h2>CICLO DE VIDA DE UMA SOLUÇÃO EM CIÊNCIA DE DADOS</h2>
 <h3>DEFINIR O PROBLEMA E A SOLUÇÃO</h3>
