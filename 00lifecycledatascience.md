@@ -12,7 +12,7 @@
     <tr>
       <td>Formação Cientista de Dados</td>
       <td>Dominar o conhecimento em Ciência de Dados</td>
-      <td>Python, R, JavaScript</td>
+      <td align="center">Python, R, JavaScript</td>
       <td align="center">Inteligência Artificial</td>
     </tr>
     <tr>
