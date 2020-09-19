@@ -6,7 +6,7 @@
     <tr>
       <th>PROJETO</th>
       <th>OBJETIVO</th>
-      <th>TECNOLOGIAS</th>
+      <th>LINGUAGENS DE PROGRAMAÇÃO</th>
       <th>MODALIDADE NA TECNOLOGIA</th>
     </tr>
     <tr>
@@ -34,14 +34,14 @@
 <p>O Cientista de dados deve ser capaz de traduzir as questões de negócio ao seu "botão mágico para conquistar o sucesso" em algo que possa ser resolvido matematicamente com o dataset da organização.</p>
 <p>Definir a melhor solução é uma responsabilidade bilateral : Cientista de dados com o time de negócios. O processo e iterativo, que significa seguir desenhando e apresentando a solução aos parceiros de negócios até chegar ao problema e a solução ideal diretamente relacionada a este problema.</p>
 
-<h4>03 COMO CRIAR A/UMA SOLUÇÃO DATA SCIENCE USANDO INTELIGÊNCIA ARTIFICIAL ?</h4>
+<h4>03 COMO CRIAR UMA SOLUÇÃO DATA SCIENCE USANDO INTELIGÊNCIA ARTIFICIAL ?</h4>
 <p>O Cientista de dados <a href="/0-documentation/0-ciclo-de-vida0.md">coleta todo e qualquer dado</a> possível, analisa o processo da organização e o relaciona ao problema definido versus a melhor solução definida, então desenvolve o algoritmo de inteligência artificial sob determinadas amostras.</p>
 <p>Importante : <br>
 Um algoritmo simples de <a href="/0-documentation/0-ciclo-de-vida0.md">inteligência artificial nos dados</a> através de machine learning, deep learning ou neural networks deve ter um resultado igual ou melhor ao resultado esperado.</p>
 
 <h4>04 COMO A SOLUÇÃO SERÁ USADA PRODUTIVAMENTE ?</h4>
 <p>O Cientista de dados analisa o resultado em inteligência artificial, como este resultado será apresentado e define como devem ser tratados os novos dados.</p>
-<p>O resultado pode ser apresentado em um Web app, sistema ERP, Dashboard, Excel, entre outros fontes de visualização.</p>
+<p>O resultado pode ser apresentado em um Web app, Power BI, Google Data Studio, sistema ERP, Dashboard, Excel e/ou em qualquer outra fonte de visualização existente.</p>
 <p>No primeiro momento é responsabilidade do Cientista de dados definir como a solução será usada produtivamente. Após ter o modelo definitivo o Cientista de dados com o time de negócios estabelecem como a solução será usada definitivamente em produção.</p>
 
 <h4>05 COMO SABER SE A SOLUÇÃO DEU CERTO ?</h4>
@@ -51,8 +51,8 @@ Um algoritmo simples de <a href="/0-documentation/0-ciclo-de-vida0.md">inteligê
 <hr>
 <h4>PODEMOS CONSIDERAR QUE :</h4>
     <ol>
-        <li>Etapas 01 e 02 : serve para entender todo o processo do negócio, para definir o problema e a melhor solução.</li>
-        <li>Etapas 03 e 04 : durante esta etapa é realizada a coleta dos dados e desenvolvimento do modelo em inteligência artifivial sob os processos e métricas do negócio.</li>
+        <li>Etapas 01 e 02 : serve para entender todo o processo do negócio e em comum acordo com a parte interessada, definir o problema e a melhor solução.</li>
+        <li>Etapas 03 e 04 : durante esta etapa é realizada a coleta dos dados e desenvolvimento do modelo em inteligência artificial sob os processos e métricas do negócio.</li>
         <li>Etapa 05 : serve para testar e otimizar o modelo de inteligência artificial desenvolvido sob os processos e métricas do negócio e disponibilizá-lo em produção.</li>
     </ol>
 
