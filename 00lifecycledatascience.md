@@ -4,15 +4,15 @@
 <div>
   <table>
     <tr>
-      <th><font size="1px">PROJETO</font></th>
+      <th>PROJETO</th>
       <th>OBJETIVO</th>
-      <th>LINGUAGENS DE PROGRAMAÇÃO</th>
+      <th>PROGRAMAÇÃO</th>
       <th>CIÊNCIA DA COMPUTAÇÃO</th>
     </tr>
     <tr>
-      <td>Formação Cientista de Dados</td>
-      <td>Dominar o conhecimento em Ciência de Dados</td>
-      <td>Python, R, JavaScript</td>
+      <td align="center">Formação Cientista de Dados</td>
+      <td align="center">Dominar o conhecimento em Ciência de Dados</td>
+      <td align="center">Python, R, JavaScript</td>
       <td align="center">Inteligência Artificial</td>
     </tr>
     <tr>
