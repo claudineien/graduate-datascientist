@@ -45,8 +45,7 @@ Um algoritmo simples de <a href="/0-documentation/0-ciclo-de-vida0.md">inteligê
 <p>No primeiro momento é responsabilidade do Cientista de dados definir como a solução será usada produtivamente. Após ter o modelo definitivo o Cientista de dados com o time de negócios estabelecem como a solução será usada definitivamente em produção.</p>
 
 <h4>05 COMO SABER SE A SOLUÇÃO DEU CERTO ?</h4>
-<p>O Cientista de dados define as métricas de acordo com a área de negócio e dados obtidos, compara os resultados entre solução com inteligência artificial e os resultados atualmente conquistados sem inteligência artificial. Este ciclo é repetido algumas vezes até o <a href="/0-documentation/0-ciclo-de-vida0.md">modelo estar otimizado</a> para ser disponibilizado em produção.</p>
-<p>Deve haver uma métrica primária e uma ou mais métricas secundárias.</p>
+<p>O Cientista de dados define métricas primárias e métricas secundárias de acordo com a área de negócio e dataset obtidos, compara os resultados entre solução com inteligência artificial e os resultados atualmente conquistados sem inteligência artificial. Este ciclo é repetido algumas vezes até o <a href="/0-documentation/0-ciclo-de-vida0.md">modelo estar otimizado</a> para ser disponibilizado em ambbiente produção.</p>
 
 <hr>
 <h4>PODEMOS CONSIDERAR QUE :</h4>
