@@ -1,4 +1,3 @@
-documentation
 <h5><a href="blank_">[en]</a> | <a href="blank_">[pt-br]</a>
 </h5>
 <h5>
@@ -7,14 +6,14 @@ documentation
     <tr>
       <th>PROJETO</th>
       <th>OBJETIVO</th>
-      <th>TIPO DE DADOS</th>
-      <th>TIPO MACHINE LEARNING</th>
+      <th>PROGRAMAÇÃO</th>
+      <th>CIÊNCIA DA COMPUTAÇÃO</th>
     </tr>
     <tr>
-      <td>Recomendador de vídeos do youtube</td>
-      <td>Entender Ciência de dados na prática</td>
-      <td>Time Series</td>
-      <td>Supervisionado</td>
+      <td align="center">Formação Cientista de Dados</td>
+      <td align="center">Dominar o conhecimento em Ciência de Dados</td>
+      <td align="center">Python, R, JavaScript</td>
+      <td align="center">Inteligência Artificial</td>
     </tr>
     <tr>
         <td colspan="4">LinkedIn : https://www.linkedin.com/in/claudineien/</td>
