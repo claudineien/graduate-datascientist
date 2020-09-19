@@ -35,9 +35,9 @@
 <p>Definir a melhor solução é uma responsabilidade bilateral : Cientista de dados e time de negócios. O processo é iterativo, que significa seguir desenhando e apresentando a solução aos parceiros de negócios até chegar ao problema e a solução ideal diretamente relacionada ao requisito da do negócio.</p>
 
 <h4>03 COMO CRIAR UMA SOLUÇÃO DATA SCIENCE USANDO INTELIGÊNCIA ARTIFICIAL ?</h4>
-<p>O Cientista de dados <a href="/0-documentation/0-ciclo-de-vida0.md">coleta todo e qualquer dado</a> possível, analisa o processo da organização e relaciona o dataset ao problema definido versus a melhor solução definida, então desenvolve o algoritmo de inteligência artificial sob determinadas amostras.</p>
+<p>O Cientista de dados <a href="/0-documentation/00data-science-lifecycle0.md">coleta todo e qualquer dado</a> possível, analisa o processo da organização e relaciona o dataset ao problema definido versus a melhor solução definida, então desenvolve o algoritmo de inteligência artificial sob determinadas amostras.</p>
 <p>Importante : <br>
-Um algoritmo simples de <a href="/0-documentation/0-ciclo-de-vida0.md">inteligência artificial nos dados</a> através de machine learning, deep learning ou neural networks deve ter um resultado igual ou melhor ao resultado atualmente obtido sem inteligência artificial.</p>
+Um algoritmo simples de <a href="/0-documentation/00data-science-lifecycle0.md">inteligência artificial nos dados</a> através de machine learning, deep learning ou neural networks deve ter um resultado igual ou melhor ao resultado atualmente obtido sem inteligência artificial.</p>
 
 <h4>04 COMO A SOLUÇÃO SERÁ USADA PRODUTIVAMENTE ?</h4>
 <p>O Cientista de dados analisa o resultado em inteligência artificial, como este resultado será apresentado e define como devem ser tratados os novos dados.</p>
@@ -45,7 +45,7 @@ Um algoritmo simples de <a href="/0-documentation/0-ciclo-de-vida0.md">inteligê
 <p>No primeiro momento é responsabilidade do Cientista de dados definir como a solução será usada produtivamente. Após ter o modelo definitivo o Cientista de dados com o time de negócios estabelecem como a solução será usada definitivamente em produção.</p>
 
 <h4>05 COMO SABER SE A SOLUÇÃO DEU CERTO ?</h4>
-<p>O Cientista de dados define métricas primárias e métricas secundárias de acordo com a área de negócio e dataset obtidos, compara os resultados entre solução com inteligência artificial e os resultados atualmente conquistados sem inteligência artificial. Este ciclo é repetido algumas vezes até o <a href="/0-documentation/0-ciclo-de-vida0.md">modelo estar otimizado</a> para ser disponibilizado em ambbiente produção.</p>
+<p>O Cientista de dados define métricas primárias e métricas secundárias de acordo com a área de negócio e dataset obtidos, compara os resultados entre solução com inteligência artificial e os resultados atualmente conquistados sem inteligência artificial. Este ciclo é repetido algumas vezes até o <a href="/0-documentation/00data-science-lifecycle0.md">modelo estar otimizado</a> para ser disponibilizado em ambbiente produção.</p>
 
 <hr>
 <h4>PODEMOS CONSIDERAR QUE :</h4>
