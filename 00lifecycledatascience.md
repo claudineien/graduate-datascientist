@@ -21,23 +21,23 @@
   </table>
 </div>
 </h5>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <hr>
 <h2>CICLO DE VIDA DE UMA SOLUÇÃO EM CIÊNCIA DE DADOS</h2>
 <h3>DEFINIR O PROBLEMA E A SOLUÇÃO</h3>
 <h4>01 QUAL É O PROBLEMA ?</h4>
 <p>Antes mesmo de iniciar um projeto de ciência de dados, você deve definir o problema que deverá ser resolvido. O problema deverá estar diretamente relacionado ao objetivo do requisito do negócio.</p>
-<p>Definir o problema é uma responsabilidade bilateral que envolve o cientista de dados e o time de negócios.</p>
+<p>Definir o problema é uma responsabilidade bilateral que envolve o cientista de dados e o time de negócios da parte interessada pela solução.</p>
 
 <h4>02 QUAL A MELHOR SOLUÇÃO ?</h4>
-<p>O Cientista de dados é o especialista em sua área, e é seu trabalho guiar/ajudar a organização a encontrar o que quer e/ou o que precisa.</p>
-<p>O Cientista de dados deve ser capaz de traduzir as questões de negócio ao seu "botão mágico para conquistar o sucesso" em algo que possa ser resolvido matematicamente com o dataset da organização.</p>
-<p>Definir a melhor solução é uma responsabilidade bilateral : Cientista de dados com o time de negócios. O processo e iterativo, que significa seguir desenhando e apresentando a solução aos parceiros de negócios até chegar ao problema e a solução ideal diretamente relacionada a este problema.</p>
+<p>O Cientista de dados é o especialista em sua área e é seu trabalho guiar/ajudar a parte interessada a encontrar o que quer e/ou o que precisa.</p>
+<p>O Cientista de dados deve ser capaz de traduzir as questões de negócio para o seu "botão mágico para conquistar o sucesso" em algo que possa ser resolvido matematicamente e estatisticamente com o dataset.</p>
+<p>Definir a melhor solução é uma responsabilidade bilateral : Cientista de dados e time de negócios. O processo é iterativo, que significa seguir desenhando e apresentando a solução aos parceiros de negócios até chegar ao problema e a solução ideal diretamente relacionada ao requisito da do negócio.</p>
 
 <h4>03 COMO CRIAR UMA SOLUÇÃO DATA SCIENCE USANDO INTELIGÊNCIA ARTIFICIAL ?</h4>
-<p>O Cientista de dados <a href="/0-documentation/0-ciclo-de-vida0.md">coleta todo e qualquer dado</a> possível, analisa o processo da organização e o relaciona ao problema definido versus a melhor solução definida, então desenvolve o algoritmo de inteligência artificial sob determinadas amostras.</p>
+<p>O Cientista de dados <a href="/0-documentation/0-ciclo-de-vida0.md">coleta todo e qualquer dado</a> possível, analisa o processo da organização e relaciona o dataset ao problema definido versus a melhor solução definida, então desenvolve o algoritmo de inteligência artificial sob determinadas amostras.</p>
 <p>Importante : <br>
-Um algoritmo simples de <a href="/0-documentation/0-ciclo-de-vida0.md">inteligência artificial nos dados</a> através de machine learning, deep learning ou neural networks deve ter um resultado igual ou melhor ao resultado esperado.</p>
+Um algoritmo simples de <a href="/0-documentation/0-ciclo-de-vida0.md">inteligência artificial nos dados</a> através de machine learning, deep learning ou neural networks deve ter um resultado igual ou melhor ao resultado atualmente obtido sem inteligência artificial.</p>
 
 <h4>04 COMO A SOLUÇÃO SERÁ USADA PRODUTIVAMENTE ?</h4>
 <p>O Cientista de dados analisa o resultado em inteligência artificial, como este resultado será apresentado e define como devem ser tratados os novos dados.</p>
@@ -55,9 +55,8 @@ Um algoritmo simples de <a href="/0-documentation/0-ciclo-de-vida0.md">inteligê
         <li>Etapas 03 e 04 : durante esta etapa é realizada a coleta dos dados e desenvolvimento do modelo em inteligência artificial sob os processos e métricas do negócio.</li>
         <li>Etapa 05 : serve para testar e otimizar o modelo de inteligência artificial desenvolvido sob os processos e métricas do negócio e disponibilizá-lo em produção.</li>
     </ol>
-
 <p><strong>Dica para sair do zero em Data Science :</strong><br>
-Desenvolver solução em inteligência artificial (machine learning, deep learning ou neural networks) sobre um problema resolvido diversas vezes com objetivo de fazer um modelo preditivo no mínimo 10% melhor que o atual modelo.</p>
+Desenvolver solução em inteligência artificial (machine learning, deep learning ou neural networks) sobre um problema resolvido diversas vezes com objetivo de fazer um modelo preditivo no mínimo 10% melhor que o modelo sem inteligência artificial.</p>
 <br><br><br>
 <hr>
 <p>Fontes de estudo
