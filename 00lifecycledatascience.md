@@ -13,7 +13,7 @@
       <td>Formação Cientista de Dados</td>
       <td>Dominar o conhecimento em Ciência de Dados</td>
       <td>Python, R, JavaScript</td>
-      <td>Inteligência Artificial</td>
+      <td align="center">Inteligência Artificial</td>
     </tr>
     <tr>
         <td colspan="4">LinkedIn : https://www.linkedin.com/in/claudineien/</td>
