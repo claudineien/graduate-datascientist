@@ -387,6 +387,7 @@
 <hr>
 <p>Fontes de estudo
     <ul>
+        <li><a href="https://www.udemy.com/course/cientista-de-dados/">Formação Cientista de Dados com Python e R</a></li>
         <li><a href="https://www.youtube.com/watch?v=B-JmU842t_Q">A História da informação Documentário 2012</a></li>
         <li><a href="https://www.youtube.com/watch?v=eOrpDa0BH1c">Consumo de informação | Ricardo Cappra, para PUCRS Online</a></li>
     </ul>
