@@ -31,17 +31,17 @@
 
 <h4>02 QUAL A MELHOR SOLUÇÃO ?</h4>
 <p>O Cientista de dados é o especialista em sua área e é seu trabalho guiar/ajudar a parte interessada a encontrar o que quer e/ou o que precisa.</p>
-<p>O Cientista de dados deve ser capaz de traduzir as questões de negócio para o seu "botão mágico para conquistar o sucesso" em algo que possa ser resolvido matematicamente e estatisticamente com o dataset.</p>
+<p>O Cientista de dados deve ser capaz de traduzir os requisitos do negócio em algo que possa ser resolvido matematicamente e estatisticamente.</p>
 <p>Definir a melhor solução é uma responsabilidade bilateral : Cientista de dados e time de negócios. O processo é iterativo, que significa seguir desenhando e apresentando a solução aos parceiros de negócios até chegar ao problema e a solução ideal diretamente relacionada ao requisito da do negócio.</p>
 
 <h4>03 COMO CRIAR UMA SOLUÇÃO DATA SCIENCE USANDO INTELIGÊNCIA ARTIFICIAL ?</h4>
-<p>O Cientista de dados <a href="/0-documentation/00data-science-lifecycle0.md">coleta todo e qualquer dado</a> possível, analisa o processo da organização e relaciona o dataset ao problema definido versus a melhor solução definida, então desenvolve o algoritmo de inteligência artificial sob determinadas amostras.</p>
+<p>O Cientista de dados <a href="/0-documentation/00data-science-lifecycle0.md">coleta todo e qualquer dado</a> possível, analisa o processo da organização e os relacionam o dataset ao problema definido versus a melhor solução definida, então desenvolve o algoritmo de inteligência artificial sob determinadas amostras.</p>
 <p>Importante : <br>
-Um algoritmo simples de <a href="/0-documentation/00data-science-lifecycle0.md">inteligência artificial nos dados</a> através de machine learning, deep learning ou neural networks deve ter um resultado igual ou melhor ao resultado atualmente obtido sem inteligência artificial.</p>
+Um algoritmo simples de <a href="/0-documentation/00data-science-lifecycle0.md">inteligência artificial nos dados</a> através de machine learning, deep learning ou neural networks deve ter um resultado igual ou melhor do que o resultado atualmente obtido sem inteligência artificial.</p>
 
 <h4>04 COMO A SOLUÇÃO SERÁ USADA PRODUTIVAMENTE ?</h4>
-<p>O Cientista de dados analisa o resultado em inteligência artificial, como este resultado será apresentado e define como devem ser tratados os novos dados.</p>
-<p>O resultado pode ser apresentado em um Web app, Power BI, Google Data Studio, sistema ERP, Dashboard, Excel e/ou em qualquer outra fonte de visualização existente.</p>
+<p>O Cientista de dados analisa o resultado retornado pela inteligência artificial, e sob este resultado apresenta e define como devem ser tratados os novos dados.</p>
+<p>O resultado pode ser apresentado em um Web app, Mobile app, Power BI, Google Data Studio, sistema ERP, Dashboard, Excel e/ou em qualquer outra fonte de visualização existente.</p>
 <p>No primeiro momento é responsabilidade do Cientista de dados definir como a solução será usada produtivamente. Após ter o modelo definitivo o Cientista de dados com o time de negócios estabelecem como a solução será usada definitivamente em produção.</p>
 
 <h4>05 COMO SABER SE A SOLUÇÃO DEU CERTO ?</h4>
@@ -55,7 +55,7 @@ Um algoritmo simples de <a href="/0-documentation/00data-science-lifecycle0.md">
         <li>Etapa 05 : serve para testar e otimizar o modelo de inteligência artificial desenvolvido sob os processos e métricas do negócio e disponibilizá-lo em produção.</li>
     </ol>
 <p><strong>Dica para sair do zero em Data Science :</strong><br>
-Desenvolver solução em inteligência artificial (machine learning, deep learning ou neural networks) sobre um problema resolvido diversas vezes com objetivo de fazer um modelo preditivo no mínimo 10% melhor que o modelo sem inteligência artificial.</p>
+Desenvolver solução em inteligência artificial (machine learning, deep learning ou neural networks) sobre um problema resolvido diversas vezes com objetivo criar uma solução com inteligência artificial melhor que o modelo sem inteligência artificial.</p>
 <br><br><br>
 <hr>
 <p>Fontes de estudo
