@@ -6,4 +6,4 @@
   Flask Version 1.0.2<br>
   Application Mode Desktop<br>
   Current User pgadmin4@pgadmin.org</p>
-  <p><a href="/3-img/postgres_script_fixed0.png></p>
+  <p><img href="/3-img/postgres_script_fixed0.png></p>
