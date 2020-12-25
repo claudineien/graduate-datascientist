@@ -68,13 +68,12 @@
 <h4>LIMPAR E TRATAR OS DADOS</h4>
 <p>Neste processo o Cientista de dados deve eliminar todos os obstáculos causados pela falha da organização no processo de construção do dataset. Deve trabalhar :
     <ul>
-        <li>nos dados redundantes</li>
+        <li>nos dados redundantes/duplicados</li>
         <li>nos dados inconsistentes</li>
         <li>nos dados sem completude</li>
         <li>nos dados sem conformidade</li>
         <li>nos dados sem integridade referencial</li>
         <li>nos dados faltantes</li>
-        <li>nos dados duplicados</li>
         <li>nos dados desnecessários</li>
     </ul>
 </p>
