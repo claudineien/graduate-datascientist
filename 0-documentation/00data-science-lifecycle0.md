@@ -48,6 +48,7 @@
 <p>Através de gráficos, planilhas e/ou relatórios com ajuda de algorítimos matemáticos e estatísticos o Cientista de dados deve :
     <ul>
         <li>detectar se a quantidade e/ou conteúdo de dados são suficientes para desenvolver a solução</li>
+        <li>analisar o encoding nos dados : ascii, iso, utf</li>
         <li>analisar o tipo de cada dado : string, objeto, float, inteiro</li>
         <li>analisar o conteúdo de cada dado, inclusive os nulos, vazios e nan</li>
         <li>detectar padrões nos dados</li>
