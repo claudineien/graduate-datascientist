@@ -66,15 +66,15 @@
     </ul>
 </p>
 <h4>LIMPAR E TRATAR OS DADOS</h4>
-<p>Neste processo o Cientista de dados deve eliminar todos os obstáculos causados pela falha da organização no processo de construção do dataset. Deve trabalhar :
+<p>Neste processo o Cientista de dados deve eliminar todos os obstáculos causados pela falha da organização no processo de construção do dataset, para limpar e/ou tratar dados :
     <ul>
-        <li>nos dados redundantes/duplicados</li>
-        <li>nos dados inconsistentes</li>
-        <li>nos dados sem completude</li>
-        <li>nos dados sem conformidade</li>
-        <li>nos dados sem integridade referencial</li>
-        <li>nos dados faltantes</li>
-        <li>nos dados desnecessários</li>
+      <li>dados redundantes/duplicados</li>
+      <li>dados inconsistentes</li>
+      <li>dados sem completude</li>
+      <li>dados sem conformidade</li>
+      <li>dados sem integridade referencial</li>
+      <li>dados faltantes</li>
+      <li>dados desnecessários</li>
     </ul>
 </p>
 <h4>CONVERTER OS DADOS</h4>
