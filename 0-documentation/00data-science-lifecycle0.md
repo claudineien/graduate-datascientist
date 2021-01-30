@@ -53,7 +53,7 @@
       <li>detectar colunas/variáveis com dados exclusivos</li>
       <li>detectar campos com opções como ramo atividade empresa (serviço, comércio, indústria, agricultura), genero (F-Feminino, M-Masculino), estado cívil (S-solteiro, C-Casado, V-Viuvo)</li>
         <li>analisar o tipo de cada dado : string, objeto, float, inteiro</li>
-        <li>analisar o conteúdo de cada dado, inclusive os nulos, vazios e nan</li>
+        <li>analisar o conteúdo de cada dado, inclusive os null, empty, NaN, non-null sem valor representativo</li>
         <li>detectar padrões nos dados</li>
         <li>detectar tendências nos dados</li>
         <li>detectar correlação entre os dados</li>
