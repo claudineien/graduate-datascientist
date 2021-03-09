@@ -3,8 +3,8 @@
 <p>Imagine um quadro escolar, um quadro para fazer pinturas, uma prancheta ou uma folha de papel.<br>
 Agora imagine você escrevendo no quadro escolhar, desenhando quadro de pinturas ou rascunhando na prancheta ou na folha de papel um quadro menor com a informação sobre quantidade de produtos vendidos no dia, na semana, nos ultimos 21 dias, mais um gráfico em forma de pizza com o valor total dos produtos vendidos por estado, um gráfico em forma de barras que indica a quantidade de vendas dos 20 produtos mais vendidos por estado, mais um gráfico com diversas linhas informando a quantidade de pedidos devolvidos em um determinado tempo que pode ser nos últimos seis meses ou 12 meses ou a cada quatro meses.<br>
 Pronto! Você acabou de criar um <a href="https://en.wikipedia.org/wiki/Dashboard_(business)#:~:text=A%20dashboard%20is%20a%20type,a%20form%20of%20data%20visualization.">dashboard</a> e pode ficar parecido com uma das imagens a seguir:</p>
-<p><img src="/3-img/img/00dshbrd_oquee.png"></p>
-<p><img src="/3-img/img/01dshbrd_oquee.png"></p>
+<p><img src="/3-img/00dshbrd_oquee.png"></p>
+<p><img src="/3-img/01dshbrd_oquee.png"></p>
 <h2>Para que serve ?</h2>
 <p>O dashboard serve para fornecer análises, monitoramento, métricas, planejamento, fornecer informações significativas possibilitando o acesso a uma visão ampla e analítica de todas as estratégias que estão sendo desenvolvidas e/ou estão em andamento na empresa. A seguir alguns valores alcançados com dashboard :<br>
 - direcionar a implementar melhorias nos processos<br>
