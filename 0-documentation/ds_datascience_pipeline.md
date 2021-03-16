@@ -1,7 +1,7 @@
 <h2>Data Science Pipeline</h2>
 <p>Pipeline são Etapas ou fases a partir da coleta de dados à transformação em informação. Em alguns casos, etapas independentes podem ser executadas em paralelo.</p>
 <p>
-* Data Sourcin<br>
+* Data Sourcing<br>
 * Data Spliting in Train, Validation, Test<br>
 * Pre-processing<br>
 * Feature Engineering<br>
