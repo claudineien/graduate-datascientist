@@ -32,3 +32,8 @@ Imagem de <a href="https://www.flazingo.com/creativecommons">flazingo.com/creati
  - Pouco conhecimento em banco de dados<br>
  - Pouco conhecimento em sql
 </p>
+<br>
+<hr>
+<p><strong>Fonte de pesquisa</strong>
+<a href="https://youtu.be/WPfC7sIJGdo">Diferenças e similaridades entre BI, Data Analytics, Data Science e Engenharia de Dados</a>
+</p>
