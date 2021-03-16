@@ -1,5 +1,5 @@
 <h2>Data of Career - Profissionais de Dados</h2>
-<p><img src="/3-img/career_job_descr.jpg">
+<p><img src="/3-img/career_job_descr.jpg"><br>
 Imagem de <a href="https://www.flazingo.com/creativecommons">flazingo.com/creativecommons</a></p>
 <p><strong>Business Intelligence (BI)</strong><br>
  - Trabalha com os dados coletados e estruturados<br>
