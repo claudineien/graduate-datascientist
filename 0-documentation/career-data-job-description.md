@@ -34,6 +34,6 @@ Imagem de <a href="https://www.flazingo.com/creativecommons">flazingo.com/creati
 </p>
 <br>
 <hr>
-<p><strong>Fonte de pesquisa</strong>
+<p><strong>Fonte de pesquisa</strong><br>
 <a href="https://youtu.be/WPfC7sIJGdo">Diferenças e similaridades entre BI, Data Analytics, Data Science e Engenharia de Dados</a>
 </p>
