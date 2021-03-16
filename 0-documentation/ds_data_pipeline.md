@@ -1,4 +1,4 @@
-<h2>Pipeline de Dados</h2>
+<h2>Data Pipeline/Pipeline de Dados</h2>
 <p>Etapas ou fases a partir da coleta de dados à transformação em informação. Em alguns casos, etapas independentes podem ser executadas em paralelo.</p>
 <p>
  01 Coletar/Colher Dados<br>
