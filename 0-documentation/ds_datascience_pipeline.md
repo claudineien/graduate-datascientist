@@ -1,6 +1,6 @@
 <h2>Data Science Pipeline/Pipeline de Ciência de Dados </h2>
 <p>
-<img src=".\clipart1968644.png" width=350><br>
+<img src="/3-img/clipart1968644.png" width=350><br>
 Imagem fornecida por <a href="https://www.clipartmax.com/download/m2i8b1N4G6A0Z5d3_water-pipeline-icon-water-supply/">clipartmax</a>
 </p>
 <p><strong>Pipeline</strong> são Etapas ou fases a partir da coleta de dados à transformação em informação. Em alguns casos, etapas independentes podem ser executadas em paralelo.</p>
