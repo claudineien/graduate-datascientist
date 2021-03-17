@@ -3,7 +3,7 @@
 <img src="/3-img/clipart1968644.png" width=350><br>
 Imagem fornecida por <a href="https://www.clipartmax.com/download/m2i8b1N4G6A0Z5d3_water-pipeline-icon-water-supply/">clipartmax</a>
 </p>
-<p><h4><strong>Pipeline</strong></h4> são Etapas ou fases a partir da coleta de dados à transformação em informação. Em alguns casos, etapas independentes podem ser executadas em paralelo.</p>
+<p><h3><strong>Pipeline</strong></h3> são Etapas ou fases a partir da coleta de dados à transformação em informação. Em alguns casos, etapas independentes podem ser executadas em paralelo.</p>
 
 <p>
 Imagem de <a href="https://pixabay.com/pt/users/agent81-101489/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5114147">Agent81</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5114147">Pixabay</a>
