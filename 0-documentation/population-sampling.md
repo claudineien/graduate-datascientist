@@ -19,7 +19,7 @@ Photo Credits <a href="https://www.pxfuel.com/en/free-photo-oehae">pxfuel</a><br
     </ul>
 </ol>
 </p>
-<p><strong>Alguns Conceitos</strong><br>
+<p><strong>Conceitos</strong><br>
 1. População é todo o conjunto de dados a ser analisado/estudado<br>
 2. Amostra é uma pequena parte da População<br>
 3. A Amostra sempre será menor que a População<br>
