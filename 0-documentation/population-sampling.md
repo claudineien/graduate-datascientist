@@ -19,8 +19,6 @@ Photo Credits <a href="https://www.pxfuel.com/en/free-photo-oehae">pxfuel</a><br
     </ul>
 </ol>
 </p>
-
-<h3>Estatística para ciência de dados e Machine Learning</h3>
 <p><strong>Alguns Conceitos</strong><br>
 1. População é todo o conjunto de dados a ser analisado/estudado<br>
 2. Amostra é uma pequena parte da População<br>
