@@ -1,5 +1,7 @@
 <h3>Estatística para Ciência de Dados e Machine Learning</h3>
-<p><strong>Tópicos básicos que todo cientista de dados deve conhecer</strong>
+<p><img src="/3-img/statistcsdatascience0.jpg"><br>
+Photo Credits <a href="https://www.pxfuel.com/en/free-photo-oehae">pxfuel</a><br>
+<strong>Tópicos básicos que todo cientista de dados deve conhecer</strong>
 <ol>
     <li>População e Amostra</li>
     <li>Tabelas de números aleatórios</li>
