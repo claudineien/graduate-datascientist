@@ -1,4 +1,4 @@
-<h3>Estatística para Ciência de Dados e Machine Learning</h3>
+<h2>Estatística para Ciência de Dados e Machine Learning</h2>
 <p><img src="/3-img/statistcsdatascience0.jpg"><br>
 Photo Credits <a href="https://www.pxfuel.com/en/free-photo-oehae">pxfuel</a><br>
 <strong>Tópicos básicos que todo cientista de dados deve conhecer</strong>
