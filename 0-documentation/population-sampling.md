@@ -33,7 +33,7 @@ A amostra precisa ser randômica de forma que em seu conteúdo amostral tenham e
 
 <h2>Estatística para ciência de dados e Machine Learning</h2>
 <p><strong>Tipos de Amostragem</strong><br>
-<img src="/3-img/samplingmethods.jpg"><br>
+<img src="/3-img/samplingmethods.jpg"></p>
 <p><strong>Probability Sampling</strong><br>
 Elementos com chances iguais de serem selecionados</p>
 <p><strong>Non-Probability Sampling</strong><br>
