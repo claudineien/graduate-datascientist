@@ -32,7 +32,7 @@ Amostra : 10% do total dos automóveis fabricados no Brasil<br>
 A amostra precisa ser randômica de forma que em seu conteúdo amostral tenham elementos com a mesma possibilidade serem selecionados igualmente ao elemento que não foi selecionado como amostral e vice-versa, independente do seu tipo, característica, perfil, desta forma é garantido a representatividade amostral.</p>
 
 <h2>Estatística para Ciência de Dados e Machine Learning</h2>
-<p><strong>A seguir os tipos de Amostragem que devemos conhecer para Ciência de Dados e Machine Learning</strong><br>
+<p><strong>A seguir os tipos de Amostragem para Ciência de Dados e Machine Learning</strong><br>
 <img src="/3-img/samplingmethods.jpg"></p>
 <p><strong>Probability Sampling</strong><br>
 Probability Sampling são elementos com chances iguais de serem selecionados</p>
