@@ -34,8 +34,9 @@ A amostra precisa ser randômica de forma que em seu conteúdo amostral tenham e
 <h2>Estatística para Ciência de Dados e Machine Learning</h2>
 <p><strong>A seguir os tipos de Amostragem para Ciência de Dados e Machine Learning</strong><br>
 <img src="/3-img/samplingmethods.jpg"></p>
-<p><strong>Probability Sampling</strong><br>
-Probability Sampling são elementos com chances iguais de serem selecionados</p>
+<p><strong>Probability Sampling/Amostragem Probabilística</strong><br>
+Na Amostragem Probabilística a seleção é aleatória de tal forma que cada elemento da população tem uma probabilidade conhecida de fazer parte da amostra. Os elementos possuem chances iguais de serem selecionados. São métodos rigorosamente científicos.</p>
+
 <p><strong>Non-Probability Sampling</strong><br>
 Non-Probability Sampling são elementos sem chances iguais de serem selecionados-Risco da não representatividade</p>
 </p>
