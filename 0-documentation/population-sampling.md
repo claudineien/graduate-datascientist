@@ -38,7 +38,7 @@ A amostra precisa ser randômica de forma que em seu conteúdo amostral tenham e
 Na Amostragem Probabilística a seleção é aleatória de tal forma que cada elemento da população tem uma probabilidade conhecida de fazer parte da amostra. Os elementos possuem chances iguais de serem selecionados. São métodos rigorosamente científicos.</p>
 
 <p><strong>Non-Probability Sampling/Amostra Não-Probabilística</strong><br>
-Na Amostragem Probabilística há uma escolha deliberada dos elementos da amostra. Esta amostra depende dos critérios e julgamento do pesquisador. Os elementos não possuem chances iguais de serem selecionados-Risco da não representatividade.
+Na Amostragem Probabilística há uma escolha deliberada dos elementos da amostra, ou seja, depende dos critérios e julgamento do pesquisador. E os elementos não possuem chances iguais de serem selecionados-Risco da não representatividade.
 </p>
 <hr>
 <p><strong>Fontes de pesquisa</strong> :<br>
