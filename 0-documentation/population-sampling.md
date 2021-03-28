@@ -43,6 +43,7 @@ Na Amostragem Probabilística há uma escolha deliberada dos elementos da amostr
 <hr>
 <p><strong>Fontes de pesquisa</strong> :<br>
 <ul>
- <li><a href="http://www.de.ufpb.br/~luiz/Adm/Aula9.pdf">UFPB - Amostragem</a></li>
+    <li><a href="http://www.de.ufpb.br/~luiz/Adm/Aula9.pdf">UFPB - Amostragem</a></li>
+    <li><a href="https://help.mindminers.com/pt-BR/articles/2274420-qual-e-a-diferenca-entre-amostragem-probabilistica-e-nao-probabilistica">Diferença entre amostragem probabilística e não probabilística<a/></li>
 </ul>
 </p>
