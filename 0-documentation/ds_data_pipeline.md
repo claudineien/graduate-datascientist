@@ -1,4 +1,8 @@
 <h2>Data Pipeline/Pipeline de Dados</h2>
+<p>
+<img src="/3-img/clipart1968644.png" width=350><br>
+Imagem fornecida por <a href="https://www.clipartmax.com/download/m2i8b1N4G6A0Z5d3_water-pipeline-icon-water-supply/">clipartmax</a>
+</p>
 <p>Etapas ou fases a partir da coleta de dados à transformação em informação. Em alguns casos, etapas independentes podem ser executadas em paralelo.</p>
 <p>
  01 Coletar/Colher Dados<br>
