@@ -21,4 +21,5 @@ Imagem fornecida por <a href="https://www.clipartmax.com/download/m2i8b1N4G6A0Z5
 <hr>
 <h3 align="center">VOCÊ GOSTOU DA INFORMAÇÃO E FOI ÚTIL A VOCÊ?<br>
  DEIXE UM COMENTÁRIO E CLIQUE NO CORAÇÃO 🤍->❤️ PRA FORTALECER</h3>
-<p>#datascience #dataengineer #datascientist #datasciences #dataengineers #datascientists #cientistadedados #cienciadedados</p>
+ <hr>
+<p>#datascience #dataengineer #datascientist #datasciences #dataengineers #datascientists #cientistadedado #cientistadedados #cienciadedados #engenheirodedados</p>
