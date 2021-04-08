@@ -18,6 +18,6 @@ Imagem fornecida por <a href="https://www.clipartmax.com/download/m2i8b1N4G6A0Z5
 <h2>Atenção ao Extract Transform Load-ETL</h2>
 <p>O Data Pipeline/Pipeline de Dados possui o ETL em sua composição, e este possui um método de Pipeline interno específico.
 </p>
-<h3 text-align="center">VOCÊ GOSTOU DA INFORMAÇÃO E FOI ÚTIL A VOCÊ?</h3>
-<h3>DEIXE UM COMENTÁRIO E CLIQUE NO CORAÇÃO 🤍->❤️ PRA FORTALECER</h3>
+<h3 align="center">VOCÊ GOSTOU DA INFORMAÇÃO E FOI ÚTIL A VOCÊ?<br>
+ DEIXE UM COMENTÁRIO E CLIQUE NO CORAÇÃO 🤍->❤️ PRA FORTALECER</h3>
 <p>#datascience #dataengineer #datascientist #datasciences #dataengineers #datascientists #cientistadedados #cienciadedados</p>
