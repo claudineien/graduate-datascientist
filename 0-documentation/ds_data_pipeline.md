@@ -15,8 +15,7 @@ Imagem fornecida por <a href="https://www.clipartmax.com/download/m2i8b1N4G6A0Z5
  06 Análise e Processamento e aplicar OLAP-Online Analytical Processing<br>
  07 Visualizar os Dados (exemplo : Dashboard)
 <br>
-<hr>
-<p>Importante :<br>
-Pipeline de Dados possui o ETL em sua composição
-ETL é parte de um Pipeline de Dados possui um método de Pipeline interno
+<h2>Atenção ao Extract Transform Load-ETL</h2>
+<p>O Data Pipeline/Pipeline de Dados possui o ETL em sua composição, e este possui um método de Pipeline interno.
 </p>
+<p>#datascience #dataengineer #datascientist #datasciences #dataengineers #datascientists #cientistadedados #cienciadedados</p>
