@@ -16,6 +16,6 @@ Imagem fornecida por <a href="https://www.clipartmax.com/download/m2i8b1N4G6A0Z5
  07 Visualizar os Dados (exemplo : Dashboard)
 <br>
 <h2>Atenção ao Extract Transform Load-ETL</h2>
-<p>O Data Pipeline/Pipeline de Dados possui o ETL em sua composição, e este possui um método de Pipeline interno.
+<p>O Data Pipeline/Pipeline de Dados possui o ETL em sua composição, e este possui um método de Pipeline interno específico.
 </p>
 <p>#datascience #dataengineer #datascientist #datasciences #dataengineers #datascientists #cientistadedados #cienciadedados</p>
