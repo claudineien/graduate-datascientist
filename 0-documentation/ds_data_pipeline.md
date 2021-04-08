@@ -3,8 +3,8 @@
 <img src="/3-img/clipart1968644.png" width=350><br>
 Imagem fornecida por <a href="https://www.clipartmax.com/download/m2i8b1N4G6A0Z5d3_water-pipeline-icon-water-supply/">clipartmax</a>
 </p>
-<h2>O que é Data Pipeline/Pipeline de Dados?</h2>
-<p>O Data Pipeline são etapas ou fases a partir da coleta de dados à transformação em informação. Em alguns casos, etapas independentes podem ser executadas em paralelo.</p>
+<h2>O que é Pipeline?</h2>
+<p>Um Pipeline são etapas ou fases a partir da coleta de dados à transformação em informação. Em alguns casos, etapas independentes podem ser executadas em paralelo.</p>
 <h2>Etapas/Fases do Data Pipeline/Pipeline de Dados :</h2>
 <p>
  01 Coletar/Colher Dados<br>
