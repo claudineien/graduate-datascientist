@@ -1,4 +1,4 @@
-<h1>Data Pipeline/Pipeline de Dados</h1>
+<h1><center>Data Pipeline/Pipeline de Dados</center></h1>
 <p>
 <img src="/3-img/clipart1968644.png" width=350><br>
 Imagem fornecida por <a href="https://www.clipartmax.com/download/m2i8b1N4G6A0Z5d3_water-pipeline-icon-water-supply/">clipartmax</a>
