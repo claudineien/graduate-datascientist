@@ -26,12 +26,13 @@ Imagem de <a href="https://www.flazingo.com/creativecommons">flazingo.com/creati
 </p>
 <p><strong>Data Analytics (Analista de Dados)</strong><br>
  - Conhecimento especializado no negócio<br>
- - Conhecimentos básicos em Tecnologia da Informação<br>
+ - Conhecimento intemediário em Tecnologia da Informação<br>
  - Utiliza-se de ferramentas de TI com foco no negócio<br>
- - Não precisa saber programa
- - Possui conhecimentos básicos em programação<br>
- - Conhecimentos básicos em banco de dados<br>
- - Conhecimentos básicos em sql. Utiliza bem consultas como SELECT * FROM [nome_tabela] WHERE [campo1, campo2...]
+ - Conhecimento especializado em pelo menos uma ferramenta de TI com foco no negócio<br>
+ - Saber programar em uma linguagem computacional é opcional<br>
+ - Conhecimento intermediário em pelo menos uma programação<br>
+ - Conhecimento intermediário em banco de dados<br>
+ - Conhecimento intermediário na linguagem SQL
 </p>
 <br>
 <hr>
