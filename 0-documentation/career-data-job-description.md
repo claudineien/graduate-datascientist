@@ -24,6 +24,7 @@ Imagem de <a href="https://www.flazingo.com/creativecommons">flazingo.com/creati
  - Conhecimento de programação - Atualmente Python e/ou R
  - Conhecimento em sql
 </p>
+<hr>
 <p align="center"><strong>Data Analytics (Analista de Dados)</strong><br>
 <img src="/3-img/data_analytic_career.png"><br>
  - Conhecimento especializado no negócio<br>
