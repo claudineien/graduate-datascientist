@@ -25,6 +25,7 @@ Imagem de <a href="https://www.flazingo.com/creativecommons">flazingo.com/creati
  - Conhecimento em sql
 </p>
 <p><strong>Data Analytics (Analista de Dados)</strong><br>
+<img src="/3-img/data_analytic_career.png"><br>
  - Conhecimento especializado no negócio<br>
  - Conhecimento intemediário em Tecnologia da Informação<br>
  - Utiliza-se de ferramentas de TI com foco no negócio<br>
